@@ -1,20 +1,18 @@
 ![logo](https://github.com/ctf-writeups-by-pengoffsec/ctf-writeups-by-pengoffsec/blob/main/palestine.jpg)
 <h1 align="center">Hi 👋, I'm Margarito Bonzo</h1>
-<h3 align="center">A Cyber Security Professional From Baluchistan</h3>
+<h3 align="center">A Cyber Security Professional From Balouchistan</h3>
 
 
 <img align="right" alt="hacking" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.BrIPRle45dInB0cJ9uc7eAHaFj%26pid%3DApi&f=1&ipt=cffa9108ddde34f50251d2f4c628fa2cd9b524065cf07287325194cfe0e68ae0&ipo=images">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chapothedevil&label=Profile%20views&color=0e75b6&style=flat" alt="chapothedevil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ctf-writeups-by-pengoffsec&label=Profile%20views&color=0e75b6&style=flat" alt="ctf-writeups-by-pengoffsec" /> </p>
 
 <p align="left"> <a href="https://twitter.com/team_scf_pk" target="blank"><img src="https://img.shields.io/twitter/follow/team_scf_pk?logo=twitter&style=for-the-badge" alt="team_scf_pk" /></a> </p>
 
-- 🔭 Malware Development Projects **Reverse Shell Malwares**
-
-- 🌱 I’m currently learning **Malware Development**
+- 🌱 I’m currently learning **Cyber Threat Analysis and Hunting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chapothedevil](https://github.com/ctf-writeups-by-pengoffsec)
 
-- 💬 Ask me about **Webapp Vulnerabilities and Exploits**
+- 💬 Ask me about **Webapp Vulnerabilities, Exploits and Systems Security**
 
 - ⚡ Fun fact **I love Black Hat ;)**
 
